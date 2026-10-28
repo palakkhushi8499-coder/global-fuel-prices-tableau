@@ -10,7 +10,7 @@ An interactive Tableau dashboard analyzing global fuel price fluctuations (Petro
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](image/preview.png)
 
 ---
 
